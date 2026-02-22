@@ -1,5 +1,5 @@
 About Me:
-I have been learning c++ recently but also have experience c# JavaScript and Python.<br>
+<br>I have been learning c++ recently but also have experience c# JavaScript and Python.<br>
 
 <br>My C++ Knowledge is mainly been done with Platform Io with devices such as the esp32 and soon an Esp32 Dap project will come out. <br>My c# has mainly been Unity, and Mainly Unturned Plugin Development For unturned development I am a Lead developer of Fenix network Mainly Doing repairs for older plugins.  <br>Discord is: fo0gl3
 
